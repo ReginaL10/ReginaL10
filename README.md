@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReginaL10
-- 👀 I’m interested in  Tecnologias
-- 🌱  Curso Desenvolvedor Front End na DIO
+- 👀 I’m interested in  Tecnologias 
+- 🌱  Cursando na Digital Innovation One
 - 📫  joezeraline@gmail.com
 
 <!---
